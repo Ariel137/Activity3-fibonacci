@@ -1,0 +1,21 @@
+body{
+	margin:10;
+	padding:10;
+	background-image: url(download.jpg);
+	background-position: justify;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
+	text-align:center-left;
+	f
+	
+	.box{
+		width:1000px;
+		background:black;
+		padding:100px;
+		margin:auto;
+		text-transform: uppercase;
+		color:white;
+	}
+	
+	}
